@@ -1,4 +1,4 @@
-package ru.PandaTech.itproger.helloworld;
+package ru.pandatech.itproger.helloworld;
 
 public class HelloWorld {
     public static void main(String[] args) {
