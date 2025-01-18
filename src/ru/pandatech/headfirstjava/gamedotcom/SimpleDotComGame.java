@@ -5,7 +5,7 @@ public class SimpleDotComGame {
         int numOfGuesses = 0;
         byte maxNum = 6;
         GameHelper halper = new GameHelper();
-        SimpleDotCom theDotCom = new SimpleDotCom();
+        DotCom theDotCom = new DotCom();
 
         int randomNum = (int) (Math.random() * 5);
 
